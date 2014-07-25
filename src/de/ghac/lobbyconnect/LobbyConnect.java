@@ -17,7 +17,7 @@ public class LobbyConnect extends Plugin{
         
     @Override
     public void onEnable(){
-
+     RestClient client;   
      bc.getLogger().info("Enabled LobbyConnect.");
      /* Register Listener */
      }
