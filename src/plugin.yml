@@ -1,0 +1,4 @@
+name: LobbyConnect
+version: 1.0
+main: de.ghac.lobbyconnect.LobbyConnect
+author: ghac
